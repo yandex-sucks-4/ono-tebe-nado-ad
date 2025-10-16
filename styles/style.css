@@ -1,1 +1,978 @@
-/* место для вашего кода */
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v0_3 {
+  width: 100%;
+  height: 3028px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_4 {
+  width: 100%;
+  height: 180px;
+  background: url("../images/v0_4.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2848px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_5 {
+  width: 240px;
+  height: 48px;
+  background: url("../images/v0_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 810px;
+  overflow: hidden;
+}
+.v0_6 {
+  width: 48px;
+  height: 48px;
+  background: url("../images/yt.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_11 {
+  width: 48px;
+  height: 48px;
+  background: url("../images/vk.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 96px;
+  overflow: hidden;
+}
+.v0_14 {
+  width: 48px;
+  height: 48px;
+  background: url("../images/pinterest.svg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 192px;
+  overflow: hidden;
+}
+.v0_17 {
+  width: 163px;
+  height: 64px;
+  background: url("../images/v0_17.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 468px;
+  overflow: hidden;
+}
+.v0_18 {
+  width: 118px;
+  height: 22px;
+  background: url("../images/v0_18.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 42px;
+  left: 22px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v0_20 {
+  width: 118px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v0_21 {
+  width: 163px;
+  height: 22px;
+  background: url("../images/v0_21.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 21px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_23 {
+  width: 163px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v0_24 {
+  width: 73px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 45px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: center;
+}
+.v0_25 {
+  width: 264px;
+  height: 98px;
+  background: url("../images/v0_25.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  overflow: hidden;
+}
+.v0_26 {
+  width: 260px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 49px;
+  left: 1px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_27 {
+  width: 264px;
+  height: 24px;
+  background: url("../images/v0_27.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_29 {
+  width: 264px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_30 {
+  width: 264px;
+  height: 24px;
+  background: url("../images/v0_30.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_32 {
+  width: 264px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_33 {
+  width: 100%;
+  height: 595px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 2073px;
+  left: 24px;
+  overflow: hidden;
+}
+.v0_34 {
+  width: 693px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 133px;
+  left: 359px;
+}
+.v0_35 {
+  width: 693px;
+  height: 312px;
+  background: url("../images/v0_35.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 150px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_36 {
+  width: 688px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_37 {
+  width: 693px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 144px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_38 {
+  width: 291px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 3px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_39 {
+  width: 240px;
+  height: 240px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 47px;
+  overflow: hidden;
+}
+.v0_40 {
+  width: 240px;
+  height: 240px;
+  background: url("../images/v0_40.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_41 {
+  width: 240px;
+  height: 240px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.v0_42 {
+  width: 148px;
+  height: 114px;
+  background: url("../images/logo-white.svg");
+  opacity: 1;
+  position: absolute;
+  top: 64px;
+  left: 46px;
+  overflow: hidden;
+}
+.v0_45 {
+  width: 100%;
+  height: 723px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 1230px;
+  left: 24px;
+  overflow: hidden;
+}
+.v0_46 {
+  width: 192px;
+  height: 25px;
+  background: url("../images/v0_46.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 700px;
+  left: 40px;
+  overflow: hidden;
+}
+.v0_48 {
+  width: 192px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_49 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/v0_49.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 74px;
+  left: 718px;
+  overflow: hidden;
+}
+.v0_50 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/v0_50.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_51 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/card-lot-03.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_52 {
+  width: 334px;
+  height: 596px;
+  background: rgba(0,0,0,0.6000000238418579);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_53 {
+  width: 254px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 284px;
+  left: 40px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_54 {
+  width: 254px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 48px;
+  left: 40px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_55 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/v0_55.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 74px;
+  left: 359px;
+  overflow: hidden;
+}
+.v0_56 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/v0_56.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_57 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/card-lot-02.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_58 {
+  width: 334px;
+  height: 596px;
+  background: rgba(0,0,0,0.6000000238418579);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_59 {
+  width: 254px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 188px;
+  left: 40px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_60 {
+  width: 254px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 48px;
+  left: 40px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_61 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/v0_61.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 74px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_62 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/v0_62.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_63 {
+  width: 334px;
+  height: 596px;
+  background: url("../images/card-lot-01.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_64 {
+  width: 334px;
+  height: 596px;
+  background: rgba(0,0,0,0.6000000238418579);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_65 {
+  width: 254px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 404px;
+  left: 40px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_66 {
+  width: 254px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 48px;
+  left: 40px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_67 {
+  width: 121px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 40px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_68 {
+  width: 100%;
+  height: 757px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 293px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_69 {
+  width: 100%;
+  height: 757px;
+  background: url("../images/cover.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+  filter: brightness(0.4);
+}
+.v0_70 {
+  width: 100%;
+  height: 757px;
+  background: rgba(0,0,0,1);
+  opacity: 0.6000000238418579;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_71 {
+  width: 1000px;
+  height: 51px;
+  background: url("../images/v0_71.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 656px;
+  left: 50px;
+  overflow: hidden;
+}
+.v0_72 {
+  width: 256px;
+  height: 51px;
+  border: 2px solid #fff;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 744px;
+  overflow: hidden;
+}
+.v0_74 {
+  width: 193px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 12px;
+  left: 31px;
+  font-family: Raleway;
+  font-weight: Medium;
+  font-size: 22px;
+  opacity: 1;
+  text-align: center;
+}
+.v0_75 {
+  width: 637px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 12px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 22px;
+  opacity: 1;
+  text-align: left;
+  word-spacing: 18.5px;
+  text-transform: uppercase;
+}
+.v0_76 {
+  width: 1000px;
+  height: 385px;
+  background: url("../images/v0_76.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 165px;
+  left: 50px;
+  overflow: hidden;
+}
+.v0_77 {
+  width: 387px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 270px;
+  left: 613px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 100px;
+  opacity: 1;
+  text-align: right;
+}
+.v0_78 {
+  width: 339px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 135px;
+  left: 331px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 100px;
+  opacity: 1;
+  text-align: center;
+}
+.v0_79 {
+  width: 286px;
+  color: rgba(255,255,255,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Bold;
+  font-size: 100px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_80 {
+  width: 100%;
+  height: 293px;
+  background: url("../images/v0_80.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_81 {
+  width: 240px;
+  height: 98px;
+  background: url("../images/v0_81.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 95px;
+  left: 810px;
+  overflow: hidden;
+}
+.v0_82 {
+  width: 236px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 49px;
+  left: 1px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_83 {
+  width: 239px;
+  height: 24px;
+  background: url("../images/v0_83.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 24px;
+  left: 0px;
+  overflow: hidden;
+}
+.v0_85 {
+  width: 239px;
+  color: rgba(0,0,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_86 {
+  width: 239px;
+  height: 24px;
+  background: url("../images/v0_86.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  overflow: hidden;
+}
+.v0_88 {
+  width: 239px;
+  color: rgba(0,0,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_89 {
+  width: 148px;
+  height: 105px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 92px;
+  left: 478px;
+  overflow: hidden;
+}
+.v0_90 {
+  width: 124px;
+  height: 94px;
+  background: url("../images/v0_90.png");
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 12px;
+  border: 6px solid rgba(0,0,0,1);
+}
+.v0_91 {
+  width: 129px;
+  height: 104px;
+  background: url("../images/logo-black.svg") no-repeat;
+  background-size: contain;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  left: 10px;
+}
+.v0_92 {
+  width: 391px;
+  height: 22px;
+  background: url("../images/v0_92.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 133px;
+  left: 50px;
+  overflow: hidden;
+}
+.v0_93 {
+  width: 129px;
+  height: 22px;
+  background: url("../images/v0_93.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 262px;
+  overflow: hidden;
+}
+.v0_95 {
+  width: 108px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_96 {
+  width: 7px;
+  height: 7px;
+  background: url("../images/v0_96.png");
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  border-radius: 50%;
+}
+.v0_97 {
+  width: 6px;
+  height: 6px;
+  background: url("../images/v0_97.png");
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 0px;
+  border-radius: 50%;
+}
+.v0_98 {
+  width: 169px;
+  height: 22px;
+  background: url("../images/v0_98.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 80px;
+  overflow: hidden;
+}
+.v0_100 {
+  width: 149px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 0px;
+  left: 19px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.v0_101 {
+  width: 6px;
+  height: 6px;
+  background: url("../images/v0_101.png");
+  opacity: 1;
+  position: absolute;
+  top: 9px;
+  left: 0px;
+  border-radius: 50%;
+}
+.v0_102 {
+  width: 67px;
+  color: rgba(0,0,0,1);
+  position: relative;
+  top: 0px;
+  left: 0px;
+  font-family: Raleway;
+  font-weight: Regular;
+  font-size: 18px;
+  opacity: 1;
+  text-align: left;
+}
+.ono-tebe-nado {
+    letter-spacing: 30px;
+}
+.lot-heading {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+address {
+    font-style: italic;
+}
